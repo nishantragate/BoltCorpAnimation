@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BoltCorpAnimation</string>
+    <string name="demo_message_title">This was a simple brand splash screen demo !</string>
+    <string name="boltcorp_message">For more amazing stuff from Bolt Corp Android, keep an eye out on github.com/nishantragate</string>
+</resources>
